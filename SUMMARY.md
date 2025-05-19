@@ -30,3 +30,4 @@
 * [People](people/README.md)
   * [Prime](people/prime.md)
   * [Somone VR](people/somone-vr.md)
+* [Gallery](gallery.md)
