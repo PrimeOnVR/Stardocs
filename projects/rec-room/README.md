@@ -1,6 +1,0 @@
----
-icon: swords
----
-
-# Rec Room
-
