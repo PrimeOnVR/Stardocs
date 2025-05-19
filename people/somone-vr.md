@@ -1,6 +1,22 @@
 ---
 description: Information about Somone VR.
 icon: user
+cover: https://img.rec.net/ewrmo48kruvtnzycq4pms81fd.jpg?width=1920
+coverY: -182
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Somone VR
