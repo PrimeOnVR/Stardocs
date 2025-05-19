@@ -1,0 +1,6 @@
+---
+icon: bed
+---
+
+# Dynamic Dorm
+

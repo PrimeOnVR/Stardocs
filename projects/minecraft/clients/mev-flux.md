@@ -1,0 +1,10 @@
+---
+description: >-
+  The client made for Flux SMP, based on Vanilla MEV, still holding some vanilla
+  support.
+icon: sidebar
+---
+
+# MEV Flux
+
+MEV Flux is a client based off of Vanilla MEV, with tie ins to the Flux server. It also contains more quality of life features to make Minecraft slightly better.
