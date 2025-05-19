@@ -1,0 +1,2 @@
+# Stardocs
+Starlight's documentation.
