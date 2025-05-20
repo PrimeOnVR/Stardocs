@@ -7,7 +7,8 @@
 * [People](info/people/README.md)
   * [Prime](info/people/prime.md)
   * [Somone VR](info/people/somone-vr.md)
-* [Other](info/other.md)
+* [Other](info/other/README.md)
+  * [Name History](info/other/name-history.md)
 
 ## Rec Room <a href="#rr" id="rr"></a>
 
@@ -15,6 +16,8 @@
   * [Ability Cubes](rr/rooms/ability-cubes.md)
   * [Wand Arena](rr/rooms/wand-arena.md)
   * [Dynamic Dorm](rr/rooms/dynamic-dorm.md)
+  * [Wind Airlines](rr/rooms/wind-airlines.md)
+  * [Other Rooms](rr/rooms/other-rooms.md)
 * [Inventions](rr/inventions/README.md)
   * [POVR Menu](rr/inventions/povr-menu.md)
 

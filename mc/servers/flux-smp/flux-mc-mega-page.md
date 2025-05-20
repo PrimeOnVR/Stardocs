@@ -30,7 +30,7 @@ Here are some events that will happen over time on the server!
 
 Make sure to watch this video so you can install the things needed for the best possible experience, and in case you need the .mrpack file, check the announcements of our discord to get it!
 
-{% @github-files/github-code-block %}
+{% embed url="https://github.com/user-attachments/assets/3412dff0-7ad4-4af7-98a7-f1e010f2c2a2" %}
 
 ### Bedrock Tutorial
 
