@@ -7,8 +7,10 @@
 * [People](info/people/README.md)
   * [Prime](info/people/prime.md)
   * [Somone VR](info/people/somone-vr.md)
+  * [Cabo](info/people/cabo.md)
+  * [WilRhy](info/people/wilrhy.md)
 * [Other](info/other/README.md)
-  * [Name History](info/other/name-history.md)
+  * [Branding History](info/other/branding-history.md)
 
 ## Rec Room <a href="#rr" id="rr"></a>
 

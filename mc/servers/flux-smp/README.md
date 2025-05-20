@@ -11,7 +11,7 @@ The server had its own documentation pages, clients, and much more.
 
 It was shut down due to inactivity, and sadly never made it to opening the end.
 
-> Who went to my house and placed laxatives? - WilRhy
+> "Who went to my house and placed laxatives?" - WilRhy
 
 | MC Version | Actively Developing | Modloader |
 | ---------- | ------------------- | --------- |
