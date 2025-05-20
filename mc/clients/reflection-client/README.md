@@ -3,7 +3,7 @@ description: >-
   A client made by Prime for an easier experience, with some vanilla support.
   Sometimes used on pluhpluh52 SMP.
 icon: cube
-cover: ../../.gitbook/assets/reflection_icon_bg_wide.png
+cover: ../../../.gitbook/assets/reflection_icon_bg_wide.png
 coverY: 0
 ---
 
