@@ -12,3 +12,7 @@ Crystal is a basic minecraft client made by Prime. This was the first client Pri
 | MC Version | Actively Developing | Modloader |
 | ---------- | ------------------- | --------- |
 | 1.20.4     | No                  | Fabric    |
+
+## Downloads
+
+This client is private, and I will not be providing a download.

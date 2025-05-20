@@ -14,3 +14,7 @@ MEV Flux is a client based off of Vanilla MEV, with tie ins to the Flux server. 
 | MC Version | Actively Developing | Modloader |
 | ---------- | ------------------- | --------- |
 | 1.21       | No                  | Fabric    |
+
+## Downloads
+
+This client is private, and I will not be providing a download.

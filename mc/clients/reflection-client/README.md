@@ -20,3 +20,7 @@ Reflection Client has its own custom branding and menu layouts. These menus make
 | MC Version | Actively Developing | Modloader |
 | ---------- | ------------------- | --------- |
 | 1.21.4     | No                  | Fabric    |
+
+## Downloads
+
+This client is private, and I will not be providing a download.

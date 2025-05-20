@@ -1,6 +1,6 @@
 ---
 description: Information about Cabo.
-icon: user
+icon: user-graduate
 ---
 
 # Cabo

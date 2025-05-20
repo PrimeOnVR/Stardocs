@@ -12,3 +12,7 @@ MEV Client V2 is the direct successor to MEV Client, with its own server, and mo
 | MC Version | Actively Developing | Modloader |
 | ---------- | ------------------- | --------- |
 | 1.20.4     | No                  | Fabric    |
+
+## Downloads
+
+This client is private, and I will not be providing a download.

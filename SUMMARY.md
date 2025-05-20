@@ -9,6 +9,7 @@
   * [Somone VR](info/people/somone-vr.md)
   * [Cabo](info/people/cabo.md)
   * [WilRhy](info/people/wilrhy.md)
+  * [Willow](info/people/willow.md)
 * [Other](info/other/README.md)
   * [Branding History](info/other/branding-history.md)
 

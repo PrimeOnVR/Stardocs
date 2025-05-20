@@ -12,3 +12,9 @@ pluhpluh52 client is a throwaway client made to tie in and enhance playing on th
 | MC Version | Actively Developing | Modloader |
 | ---------- | ------------------- | --------- |
 | 1.21.4     | No                  | Fabric    |
+
+
+
+## Downloads
+
+{% file src="../../.gitbook/assets/pluh pluh52 client 1.0.0.mrpack" %}

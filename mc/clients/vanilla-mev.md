@@ -14,3 +14,7 @@ Vanilla MEV is a seperate client from MEV Client and MEV Client V2, as it is bui
 | MC Version | Actively Developing | Modloader |
 | ---------- | ------------------- | --------- |
 | 1.21       | No                  | Fabric    |
+
+## Downloads
+
+This client is private, and I will not be providing a download.
