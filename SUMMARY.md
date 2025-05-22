@@ -37,6 +37,7 @@
       * [Setup (Screenmode)](rr/inventions/povr-menu/povr-menu-legacy-docs/setup-screenmode.md)
       * [Setup (VR)](rr/inventions/povr-menu/povr-menu-legacy-docs/setup-vr.md)
       * [Versions](rr/inventions/povr-menu/povr-menu-legacy-docs/versions.md)
+  * [Starlight Prism](rr/inventions/starlight-prism.md)
 
 ## Minecraft <a href="#mc" id="mc"></a>
 
