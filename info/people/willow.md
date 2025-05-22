@@ -13,3 +13,5 @@ Willow is the original server owner of pluhpluh52 SMP before the transfer, and a
 > "crack town"
 
 > "you should listen to cherry bomb (the song not the album) mainly bc you like blowing off your fucking ears"
+
+> "PRIME YOUR PUBLIC EXECUTION IS TOMORROW"
