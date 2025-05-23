@@ -13,6 +13,13 @@
 * [Other](info/other/README.md)
   * [Branding History](info/other/branding-history.md)
 
+***
+
+* [Resources](resources/README.md)
+  * [By Starlight](resources/by-starlight.md)
+  * [By Others](resources/by-others/README.md)
+    * [Circuit Docs](https://circuits.pages.dev/)
+
 ## Rec Room <a href="#rr" id="rr"></a>
 
 * [Rooms](rr/rooms/README.md)
