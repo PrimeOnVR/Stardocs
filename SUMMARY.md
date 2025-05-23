@@ -16,16 +16,22 @@
 ***
 
 * [Resources](resources/README.md)
-  * [By Starlight](resources/by-starlight.md)
+  * [By Starlight](resources/by-starlight/README.md)
+    * [Discord Server](https://discord.gg/2nrDX2WmEm)
+    * [Youtube Channel](https://youtube.com/@StarlightStudiosRR)
+    * [Carrd Page](https://starlightrr.carrd.co/)
   * [By Others](resources/by-others/README.md)
     * [Circuit Docs](https://circuits.pages.dev/)
+    * [Studio Docs](https://docs.alexagirl.studio/)
 
 ## Rec Room <a href="#rr" id="rr"></a>
 
 * [Rooms](rr/rooms/README.md)
-  * [Ability Cubes](rr/rooms/ability-cubes.md)
+  * [Ability Cubes](rr/rooms/ability-cubes/README.md)
+    * [Carrd Page](https://acweb.carrd.co)
   * [Wand Arena](rr/rooms/wand-arena/README.md)
     * [Wand Arena Reroll Handbook](rr/rooms/wand-arena/wand-arena-reroll-handbook.md)
+    * [Carrd Page](https://wandarena.carrd.co/)
   * [Dynamic Dorm](rr/rooms/dynamic-dorm/README.md)
     * [Taman Anggrek Residences Mood Board](rr/rooms/dynamic-dorm/taman-anggrek-residences-mood-board.md)
   * [Wind Airlines](rr/rooms/wind-airlines.md)
