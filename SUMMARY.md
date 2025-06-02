@@ -61,7 +61,7 @@
   * [MEV SMP](mc/serv/mev-smp.md)
   * [MEV 2 SMP](mc/serv/mev-2-smp.md)
   * [Vanilla MEV SMP](mc/serv/vanilla-mev-smp.md)
-  * [TCS Server](mc/serv/tcs-server.md)
+  * [TCS World](mc/serv/tcs-world.md)
   * [Flux SMP](mc/serv/flux-smp/README.md)
     * [Flux MC Mega Page](mc/serv/flux-smp/flux-mc-mega-page.md)
     * [Tier System](mc/serv/flux-smp/tier-system.md)
