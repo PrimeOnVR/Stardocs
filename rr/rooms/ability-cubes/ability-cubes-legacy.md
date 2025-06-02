@@ -35,7 +35,7 @@ Tom was an NPC found sitting on the bench on top of the lobby. When interacted w
 
 #### Polaroid
 
-On the table of the bench, there was a polaroid. The polaroid was taken by [prime.md](../../../info/people/prime.md "mention") and showed a picture of the bench it was on. It showed 3 people sitting on the bench, which was Tom, [prime.md](../../../info/people/prime.md "mention"), and @.
+On the table of the bench, there was a polaroid. The polaroid was taken by [prime.md](../../../info/people/prime.md "mention") and showed a picture of the bench it was on. It showed 3 people sitting on the bench, which was Tom, [prime.md](../../../info/people/prime.md "mention"), and [ben.md](../../../info/people/ben.md "mention").
 
 
 
