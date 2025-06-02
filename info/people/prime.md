@@ -14,7 +14,9 @@ icon: user-tie-hair-long
 > "wow     the kitteh is very cute              i like the catteh     do you like the catteh              please kill it                WHY DO YOU DO THIS      I VERY ANGRY     YOU ARE A CRAZY PERSON  because IT WILL KILLL      USSSSSSS       but          it doesnt  seem like a bad guy"
 
 {% file src="../../.gitbook/assets/wow the cat is very cool.mp3" %}
+Audio file to go alongside the above quote.
+{% endfile %}
 
-## Images
+> "Freaky!"
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Image to go alongside the above quote.</p></figcaption></figure>
