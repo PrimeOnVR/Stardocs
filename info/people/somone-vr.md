@@ -16,7 +16,9 @@ layout:
 
 # Somone VR
 
-**Somone VR**, or **@Steamingmariocool**, is a major manager on the Rec Room side of **Starlight**. He has helped create several Rec Room based projects by Starlight, like Ability Cubes, Dynamic Dorm, Wind Airlines, and more!
+**Somone VR**, or **@Steamingmariocool**, is a major manager on the Rec Room side of **Starlight**. He has helped create several Rec Room based projects by Starlight, like [ability-cubes](../../rr/rooms/ability-cubes/ "mention"), [dynamic-dorm](../../rr/rooms/dynamic-dorm/ "mention"), [wind-airlines.md](../../rr/rooms/wind-airlines.md "mention"), and more!
+
+
 
 ## Quotes
 

@@ -1,10 +1,11 @@
 ---
+description: Information about Willow.
 icon: user-vneck-hair-long
 ---
 
 # Willow
 
-Willow is the original server owner of pluhpluh52 SMP before the transfer, and also the owner of the new server created later on after both pluhpluh52 servers.
+Willow is the original server owner of [pluhpluh52-smp.md](../../mc/serv/pluhpluh52-smp.md "mention") before the transfer, and also the owner of the new server created later on after both pluhpluh52 servers.
 
 
 

@@ -10,6 +10,7 @@
   * [Cabo](info/people/cabo.md)
   * [WilRhy](info/people/wilrhy.md)
   * [Willow](info/people/willow.md)
+  * [Ben](info/people/ben.md)
 * [Other](info/other/README.md)
   * [Branding History](info/other/branding-history.md)
 
@@ -28,6 +29,7 @@
 
 * [Rooms](rr/rooms/README.md)
   * [Ability Cubes](rr/rooms/ability-cubes/README.md)
+    * [Ability Cubes Legacy](rr/rooms/ability-cubes/ability-cubes-legacy.md)
     * [Carrd Page](https://acweb.carrd.co)
   * [Wand Arena](rr/rooms/wand-arena/README.md)
     * [Wand Arena Reroll Handbook](rr/rooms/wand-arena/wand-arena-reroll-handbook.md)
