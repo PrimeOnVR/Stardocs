@@ -19,6 +19,10 @@ You will automatically be made a page when you contribute to Starlight, and that
 
 Let us know in our Discord Server, and we will take care of it for you! We are sad to see your information leave the wiki, however, will happily honor your request.
 
+{% hint style="info" %}
+All information is saved in change requests via GitHub, and users of the page can save information to be used later. Nothing on the internet can be truly deleted, and there is nothing we can do about it!
+{% endhint %}
+
 
 
 ## How do I get more information added to my page?
