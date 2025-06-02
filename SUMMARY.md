@@ -7,11 +7,12 @@
 * [People](info/people/README.md)
   * [Prime](info/people/prime.md)
   * [Somone VR](info/people/somone-vr.md)
+  * [Ben](info/people/ben.md)
   * [Cabo](info/people/cabo.md)
+  * [Sumo](info/people/sumo.md)
   * [WilRhy](info/people/wilrhy.md)
   * [Willow](info/people/willow/README.md)
     * [Strawpage](https://willowsbest.straw.page/)
-  * [Ben](info/people/ben.md)
 * [Other](info/other/README.md)
   * [Branding History](info/other/branding-history.md)
 
