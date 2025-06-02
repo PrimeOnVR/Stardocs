@@ -5,7 +5,7 @@ icon: user-vneck-hair
 
 # WilRhy
 
-WilRhy is a server helper on the Minecraft side of Starlight. He has helped and created several servers, like [tcs-world.md](../../mc/serv/tcs-world.md "mention") and [flux-smp](../../mc/serv/flux-smp/ "mention").
+**WilRhy**, or **@WilRhy**, is a server helper on the Minecraft side of Starlight. He has helped and created several servers, like [tcs-world.md](../../mc/serv/tcs-world.md "mention") and [flux-smp](../../mc/serv/flux-smp/ "mention").
 
 
 
