@@ -1,6 +1,8 @@
 ---
 description: Information about WilRhy.
 icon: user-vneck-hair
+cover: ../../.gitbook/assets/328xg9ka5w0l3h0q3flv4fx5a.jpg
+coverY: 147
 ---
 
 # WilRhy

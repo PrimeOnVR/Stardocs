@@ -1,6 +1,8 @@
 ---
 description: Information about Cabo.
 icon: user-graduate
+cover: ../../.gitbook/assets/dahrkn9lbt5mp1ff6u8ay7li9.jpg
+coverY: -89
 ---
 
 # Cabo

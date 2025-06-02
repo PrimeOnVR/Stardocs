@@ -1,6 +1,8 @@
 ---
 description: Information about Sumo.
 icon: user-hair
+cover: ../../.gitbook/assets/bq40wprebnj8167uyizkeia2l.jpg
+coverY: 107
 ---
 
 # Sumo

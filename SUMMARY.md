@@ -15,6 +15,7 @@
     * [Strawpage](https://willowsbest.straw.page/)
 * [Other](info/other/README.md)
   * [Branding History](info/other/branding-history.md)
+  * [How was this made?](info/other/how-was-this-made.md)
 
 ***
 
