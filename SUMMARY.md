@@ -14,7 +14,7 @@
   * [Willow](info/people/willow/README.md)
     * [Strawpage](https://willowsbest.straw.page/)
 * [Other](info/other/README.md)
-  * [Branding History](info/other/branding-history.md)
+  * [Branding](info/other/branding.md)
   * [How was this made?](info/other/how-was-this-made.md)
 
 ***
