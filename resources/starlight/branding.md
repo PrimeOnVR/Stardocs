@@ -57,6 +57,10 @@ Most image assets in this pack are made with IbisPaintX. In the future, we may r
 
 
 
+Most image assets in this pack are 4K.
+
+
+
 ## Branding Guidelines
 
 Use Afacad Flux as the brand font.
