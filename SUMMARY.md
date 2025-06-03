@@ -19,12 +19,12 @@
 ***
 
 * [Resources](resources/README.md)
-  * [By Starlight](resources/by-starlight/README.md)
-    * [Branding](resources/by-starlight/branding.md)
+  * [By Starlight](resources/starlight/README.md)
+    * [Branding](resources/starlight/branding.md)
     * [Discord Server](https://discord.gg/2nrDX2WmEm)
     * [Youtube Channel](https://youtube.com/@StarlightStudiosRR)
     * [Carrd Page](https://starlightrr.carrd.co/)
-  * [By Others](resources/by-others/README.md)
+  * [By Others](resources/others/README.md)
     * [Circuit Docs](https://circuits.pages.dev/)
     * [Studio Docs](https://docs.alexagirl.studio/)
 
