@@ -14,13 +14,13 @@
   * [Willow](info/people/willow/README.md)
     * [Strawpage](https://willowsbest.straw.page/)
 * [Other](info/other/README.md)
-  * [Branding](info/other/branding.md)
   * [How was this made?](info/other/how-was-this-made.md)
 
 ***
 
 * [Resources](resources/README.md)
   * [By Starlight](resources/by-starlight/README.md)
+    * [Branding](resources/by-starlight/branding.md)
     * [Discord Server](https://discord.gg/2nrDX2WmEm)
     * [Youtube Channel](https://youtube.com/@StarlightStudiosRR)
     * [Carrd Page](https://starlightrr.carrd.co/)
