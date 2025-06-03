@@ -7,7 +7,7 @@ icon: pen-field
 
 # Branding
 
-{% tabs fullWidth="true" %}
+{% tabs fullWidth="false" %}
 {% tab title="Starlight (Rebrand)" %}
 ## ![](../../.gitbook/assets/Starlight_Logo_Color.png)  Starlight
 
