@@ -129,7 +129,7 @@ PS: Do not use our assets to impersonate us.
 {% endtab %}
 
 {% tab title="Shard" %}
-## ![](../../.gitbook/assets/yes.png)  Shard
+## ![](<../../.gitbook/assets/Screenshot 2025-06-03 120921.png>)  Shard
 
 
 
@@ -143,7 +143,7 @@ This branding is completely out of date and not being used in any projects, so y
 {% endtab %}
 
 {% tab title="Slice" %}
-## ![](../../.gitbook/assets/yes.png)  Slice
+## ![](<../../.gitbook/assets/Screenshot 2025-06-03 121027.png>)  Slice
 
 Slice was a version of our branding that was around during the lifespan of Slice Hub and Slice AMAs. It depicts a sphere being sliced into two halves, and was entirely made using maker pen shapes.
 
@@ -155,7 +155,7 @@ This branding is completely out of date and not being used in any projects, so y
 {% endtab %}
 
 {% tab title="4 Corners" %}
-## ![](../../.gitbook/assets/yes.png)  4 Corners
+## ![](<../../.gitbook/assets/Screenshot 2025-06-03 121139.png>)  4 Corners
 
 
 
