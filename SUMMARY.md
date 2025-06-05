@@ -14,7 +14,6 @@
   * [Willow](info/people/willow/README.md)
     * [Strawpage](https://willowsbest.straw.page/)
 * [Other](info/other/README.md)
-  * [How was this made?](info/other/how-was-this-made.md)
   * [Usage Guidelines](info/other/usage-guidelines.md)
 
 ***
