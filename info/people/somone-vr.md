@@ -35,6 +35,10 @@ layout:
 
 > "doritos stop fighting, give me one second"
 
+> "can i have the privilage of... sponge"
+
+> "can i remove my gas mask now"
+
 ## Images
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>bald aah somonevr</td><td><a href="../../.gitbook/assets/ewrmo48kruvtnzycq4pms81fd.jpg">ewrmo48kruvtnzycq4pms81fd.jpg</a></td></tr><tr><td>ominous aah somonevr</td><td><a href="../../.gitbook/assets/9famfbgq10jysru29dzqbnbsb.jpg">9famfbgq10jysru29dzqbnbsb.jpg</a></td></tr><tr><td>blue aah somonevr</td><td><a href="../../.gitbook/assets/bxe7aiyb1tzm4hocygp47g9r8.jpg">bxe7aiyb1tzm4hocygp47g9r8.jpg</a></td></tr><tr><td>gay aah somonevr</td><td><a href="../../.gitbook/assets/a5k27b0suu0f2ik73x4sv91qk.jpg">a5k27b0suu0f2ik73x4sv91qk.jpg</a></td></tr><tr><td>detailed aah somonevr</td><td><a href="../../.gitbook/assets/5d4n1ababs04h4m3hbwsqh1gs.jpg">5d4n1ababs04h4m3hbwsqh1gs.jpg</a></td></tr></tbody></table>
