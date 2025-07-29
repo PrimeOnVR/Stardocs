@@ -21,7 +21,8 @@ You can:
 You cannot:
 
 * Train AI models or let AI models use our resources (wiki, github repo, and other files) without our permission
-* Spread false information about Starlight using our resources
+* Spread false information about Starlight
+* Impersonate or pretend to be Starlight
 
 
 
