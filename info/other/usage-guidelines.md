@@ -14,12 +14,14 @@ You can:
 * Read the wiki to gather information about Starlight and its creations
 * Export PDFs of pages of the wiki to have external, offline access of the wiki
 * Export the GitHub repo to have external, offline access of the wiki
+* Use parts of the Wiki to make videos or other content
 
 
 
 You cannot:
 
 * Train AI models or let AI models use our resources (wiki, github repo, and other files) without our permission
+* Spread false information about Starlight using our resources
 
 
 
