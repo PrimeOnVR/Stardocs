@@ -6,7 +6,7 @@ icon: people-carry-box
 
 ## Modpack Creators
 
-### Prime (po.vr)
+### Ember (emberrcore)
 
 Hello! I am the creator of Reflection! I am the person who put the mods together, made various art assets for the pack, and configured everything!
 

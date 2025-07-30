@@ -1,6 +1,6 @@
 ---
 description: >-
-  A client made by Prime for use with Vanilla based servers. Also used for
+  A client made by Ember for use with Vanilla based servers. Also used for
   Vanilla MEV SMP, and temporarily on Flux SMP!
 icon: sidebar-flip
 ---

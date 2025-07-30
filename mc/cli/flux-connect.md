@@ -1,5 +1,5 @@
 ---
-description: A barebones client made by Prime used on pluhpluh52 SMP.
+description: A barebones client made by Ember used on Flux SMP.
 icon: link
 ---
 

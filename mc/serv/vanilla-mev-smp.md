@@ -1,5 +1,5 @@
 ---
-description: A lightly modded SMP by Prime.
+description: A lightly modded SMP by Ember.
 icon: square
 ---
 

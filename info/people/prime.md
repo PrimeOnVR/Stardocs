@@ -1,11 +1,11 @@
 ---
 description: Information about Prime.
-icon: user-tie-hair-long
+icon: user-vneck
 ---
 
 # Prime
 
-**Prime**, or **@po.vr**, is the creator of **Starlight**.
+**Prime**, or **@po.vr**, is a founder of **Starlight**. He helped and started many early Starlight projects, like [ability-cubes](../../rr/rooms/ability-cubes/ "mention"), and even branched out to make games like [wand-arena](../../rr/rooms/wand-arena/ "mention")!
 
 
 

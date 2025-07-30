@@ -1,4 +1,5 @@
 ---
+description: A short, tight knit, SMP by Ember.
 icon: sailboat
 ---
 

@@ -5,6 +5,8 @@
 ## info
 
 * [People](info/people/README.md)
+  * [Ember](info/people/ember/README.md)
+    * [Carrd Bio](https://emberrcore.carrd.co/)
   * [Prime](info/people/prime.md)
   * [Somone VR](info/people/somone-vr.md)
   * [Ben](info/people/ben.md)

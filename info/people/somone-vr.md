@@ -3,25 +3,11 @@ description: Information about Somone VR.
 icon: user-hair
 cover: ../../.gitbook/assets/9tet8isk9t53ux9ji3ox714t4 (1).jpg
 coverY: 157.78799110452186
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Somone VR
 
-**Somone VR**, or **@Steamingmariocool**, is a major manager on the Rec Room side of **Starlight**. He has helped create several Rec Room based projects by Starlight, like [ability-cubes](../../rr/rooms/ability-cubes/ "mention"), [dynamic-dorm](../../rr/rooms/dynamic-dorm/ "mention"), [wind-airlines.md](../../rr/rooms/wind-airlines.md "mention"), and more!
+**Somone VR**, or **@Steamingmariocool**, is a founder of **Starlight**. He has helped create several Rec Room based projects by Starlight, like [ability-cubes](../../rr/rooms/ability-cubes/ "mention"), [dynamic-dorm](../../rr/rooms/dynamic-dorm/ "mention"), [wind-airlines.md](../../rr/rooms/wind-airlines.md "mention"), and more!
 
 
 

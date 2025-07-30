@@ -1,11 +1,11 @@
 ---
-description: An improved modded SMP by Prime.
+description: An improved modded SMP by Ember.
 icon: axe
 ---
 
 # MEV 2 SMP
 
-MEV 2 SMP was another server by Prime made for fun, and was based off of the MEV SMP and its original infrastructure.
+MEV 2 SMP was another server by [ember](../../info/people/ember/ "mention") made for fun, and was based off of the MEV SMP and its original infrastructure.
 
 
 
